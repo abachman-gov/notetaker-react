@@ -1,3 +1,34 @@
+# notetaker - A note taking app in React.
+
+## Goals
+
+- [] Explore React
+- [] Maintain a test suite
+- [] Design
+- [] Build something useful
+
+## Features
+
+Create a list of collection of notes.
+
+Tag notes with one or more categories.
+
+View note collection by category.
+
+Create links between notes.
+
+View a collection of notes together or one note at a time.
+
+Persist notes to [a backend API](https://github.com/abachman-gov/notetaker-backend)
+
+BONUS:
+
+Edit notes as markdown.
+
+Include other types of data as "note" records.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
