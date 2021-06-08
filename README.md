@@ -2,38 +2,52 @@
 
 ## Goals
 
-- [] Build something useful
-- [] Explore React
-  - [] building pages
-  - [] building forms
-  - [] interacting with data
-  - [] building dynamic user interfaces
-- [] Explore Rails
-  - [] CRUD basics
-  - [] designing an API
-  - [] request - response cycle
-- [] Maintaining a test suite
-- [] Designing the next smallest thing
+Over all of this: build something useful.
+
+- Explore React
+  - building pages
+  - building forms
+  - interacting with data
+  - building dynamic user interfaces
+- Explore Rails
+  - CRUD basics
+  - designing an API
+  - request - response cycle
+- Maintaining a test suite
+- Designing the next smallest thing
 
 ## Features
 
-Create a collection of text notes.
-
-Tag notes with one or more categories.
-
-View note collection by category.
-
-Create links between notes.
-
-View a collection of notes together or one note at a time.
-
-Persist notes to [a backend API](https://github.com/abachman-gov/notetaker-backend)
+- Create a collection of text notes.
+- Tag notes with one or more categories.
+- View note collection by category.
+- Create links between notes.
+- View a collection of notes together or one note at a time.
+- Persist notes to [a backend API](https://github.com/abachman-gov/notetaker-backend).
 
 BONUS:
 
-Edit notes as markdown.
+- Edit notes as markdown.
+- Include other types of data as "note" records.
 
-Include other types of data as "note" records.
+## Questions to Consider
+
+As a web application software developer:
+
+- Why would we want to build dynamic applications?
+- How does React see the world? Do I have to see the world the same way?
+- How does technical debt
+
+With the whole application:
+
+- How can we access data precisely where it is needed?
+- How can we maintain boundaries between components?
+- How will adding the next
+
+With every feature:
+
+- What do users expect?
+- What are the minimal set of changes required to enable new behavior?
 
 ---
 
