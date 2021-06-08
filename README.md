@@ -2,14 +2,22 @@
 
 ## Goals
 
-- [] Explore React
-- [] Maintain a test suite
-- [] Design
 - [] Build something useful
+- [] Explore React
+  - [] building pages
+  - [] building forms
+  - [] interacting with data
+  - [] building dynamic user interfaces
+- [] Explore Rails
+  - [] CRUD basics
+  - [] designing an API
+  - [] request - response cycle
+- [] Maintaining a test suite
+- [] Designing the next smallest thing
 
 ## Features
 
-Create a list of collection of notes.
+Create a collection of text notes.
 
 Tag notes with one or more categories.
 
