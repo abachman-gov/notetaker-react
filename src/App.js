@@ -1,15 +1,11 @@
 import "./App.css";
-import { SpinnyThing } from "./SpinnyThing";
+import { NotesContainer } from "./NotesContainer";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {["a", "b", "c", "d"].map((letter) => (
-          <SpinnyThing key={letter} name={letter} />
-        ))}
-        <SpinnyThing name={"Hello"} />
-        <SpinnyThing name={"World"} />
+        <NotesContainer />
       </header>
     </div>
   );
